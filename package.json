@@ -1,0 +1,49 @@
+{
+  "name": "mongoose-201",
+  "version": "0.1.0",
+  "description": "mongoose mongodb schema fs readfile promises create",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiltrovira/mongoose-201.git"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "promises",
+    "fs",
+    "readfile",
+    "schema"
+  ],
+  "author": "Wilt Rovira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiltrovira/mongoose-201/issues"
+  },
+  "homepage": "https://github.com/wiltrovira/mongoose-201#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.9"
+  },
+  "devDependencies": {
+    "eslint": "^4.6.0",
+    "assert": "^1.4.1",
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^7.2.3",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "bluebird": "^3.5.0",
+    "chai": "^4.1.1",
+    "css-loader": "^0.28.5",
+    "eslint-loader": "^1.9.0",
+    "eslint-rules-nodejs": "^1.0.0",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1",
+    "webpack-md5-hash": "0.0.5"
+  }
+}
